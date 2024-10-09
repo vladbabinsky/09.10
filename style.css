@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f9f0e9;
+}
+button {
+    margin-top: 20px;
+    padding: 12px 22px;
+    background-color: #e7d1bc;
+    border: none;
+    cursor: pointer;
+    border-radius: 15px;
+}
+
+button:hover {
+    background-color: #d1b8a2;
+}
+
+#output p {
+    font-weight: bold;
+    color: green;
+    font-size: 18px;
+    margin-top: 20px;
+}
+div {
+    margin-bottom: 20px;
+}
+
+p, label {
+    font-size: 20px;
+}
+
+div p{
+    font-size: 25px;
+}
